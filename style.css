@@ -18,6 +18,7 @@ main {
 
 section {
   margin: 2.5rem 0;
+  scroll-margin-top: 72px; /* prevents hidden section titles */
 }
 
 h2 {
